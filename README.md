@@ -35,6 +35,6 @@ Here are some of my recent web development projects you can explore:
 
 ### 🤝 Connect with Me
 - 🐙 **GitHub:** [misganew-dot](https://github.com/misganew-dot)
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/misganew-fentahun]
+- 💼 **LinkedIn:**[misganew fentahun][https://www.linkedin.com/in/misganew-fentahun]
 
 _“Driven by curiosity, building the future with code.”_
