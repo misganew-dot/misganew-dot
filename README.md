@@ -26,17 +26,6 @@ Here are some of my recent web development projects you can explore:
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=misganew-dot&show_icons=true&theme=dark" alt="Misganew's GitHub Stats" />
-</p>
-
-### 💻 Top Languages
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misganew-dot&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
----
 
 ### 🤝 Connect with Me
 - 🐙 **GitHub:** [misganew-dot](https://github.com/misganew-dot)
