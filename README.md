@@ -28,13 +28,18 @@ Here are some of my recent web development projects you can explore:
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=misganew-dot&show_icons=true&theme=radial" alt="Misganew's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=misganew-dot&show_icons=true&theme=cosmic" alt="Misganew's GitHub Stats" />
+</p>
+
+### 🎯 Contribution Graph
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misganew-dot&theme=solarized_light" alt="Misganew's GitHub Summary" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me
 - 🐙 **GitHub:** [misganew-dot](https://github.com/misganew-dot)
-- 💼 **LinkedIn:**[misganew fentahun][https://www.linkedin.com/in/misganew-fentahun]
+- 💼 **LinkedIn:** [Misganew Fentahun](https://www.linkedin.com/in/misganew-fentahun)
 
 _“Driven by curiosity, building the future with code.”_
